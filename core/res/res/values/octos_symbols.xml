@@ -46,4 +46,6 @@
     <!-- Should proximity check also affect fingerprint reader-->
     <java-symbol type="bool" name="config_proximityCheckOnFingerprintWake" />
 
+    <java-symbol type="bool" name="config_useDefaultBatchingForAccel" />
+
 </resources>
